@@ -1,0 +1,1 @@
+Course assigned php web application with a hardcoded login system. Email login is me@example.com and password is 'testpass'. Uses sessions to store user cookie data in the browser and maintain login across all active webpages. For this assignment I was required to build the login, the logout and the welcome pages.
